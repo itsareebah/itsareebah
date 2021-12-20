@@ -1,5 +1,2 @@
 - 👋 Hi, I’m Areebah Suhail
-- 👀 I’m interested in reading, 
-- 🌱 I’m currently learning Data Science and programming
-- 💞️ I’m looking to collaborate on web application projects
 - 📫 How to reach me : areebahsuhail4@gmail.com
