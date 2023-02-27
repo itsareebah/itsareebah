@@ -1,4 +1,3 @@
-# about-me
 <h1 align="center">Hi 👋, I'm Areebah Suhail</h1>
 <h3 align="center">A passionate Machine Learning and Data Science Enthusiast from India</h3>
 
