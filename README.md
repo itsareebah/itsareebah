@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Natural Language Processing Specialization along with a Masters in Computer applications**
 
-- 🌱 I’m currently learning **Machine Learning Techniques, with hands on practice**
+- 🌱 I’m currently learning **AI - search methods for problem solving and Deep Learning with Neural Networks**
 
 - 👨‍💻 My Website need to be updated a lot 😅 [https://sites.google.com/view/areebah-suhail/home](https://sites.google.com/view/areebah-suhail/home)
 
