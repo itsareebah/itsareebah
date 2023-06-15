@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AI - search methods for problem solving and Deep Learning with Neural Networks**
 
-- 👨‍💻 My Website need to be updated a lot 😅 [https://sites.google.com/view/areebah-suhail/home](https://sites.google.com/view/areebah-suhail/home)
+- 👨‍💻 My Website - 😅 [https://itsareebah.github.io](https://itsareebah.github.io)
 
 - 📫 How to reach me **areebahsuhail4@gmail.com**
 
