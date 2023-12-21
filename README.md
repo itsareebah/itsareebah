@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Areebah Suhail</h1>
 <h3 align="center">A passionate Machine Learning and Data Science Enthusiast from India</h3>
 
-- 🔭 I’m currently working on **Natural Language Processing Specialization along with a Masters in Computer applications**
+- 🔭 I’m currently working on projects based on **AI, Deep Learning and CV**
 
-- 🌱 I’m currently learning **AI - search methods for problem solving and Deep Learning with Neural Networks**
+- 🌱 I’m currently learning **Deep Learning with Neural Networks and Reinforcement Learning**
 
 - 👨‍💻 My Website - 😅 [https://itsareebah.github.io](https://itsareebah.github.io)
 
